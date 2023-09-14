@@ -1,0 +1,2 @@
+***Project by sheryians Coding School***
+When mouse slide in x axis,then the box should also follow the mouse.
