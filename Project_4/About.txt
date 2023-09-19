@@ -1,0 +1,3 @@
+***Project by sheryians Coding School***
+Make a div, whenever mouse hover over the div it pops up an image(can be same or different everytime) but in a controlled way.
+Use Throttle function to delay the image repetition.
